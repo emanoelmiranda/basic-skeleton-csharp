@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/BasicSkeletonApi.props" />
+</Project>

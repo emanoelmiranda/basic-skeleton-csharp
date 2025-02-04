@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BasicSkeleton.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+304c6bd4ada8a8dedf57621ee669954991ad5b32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b0ea7a99aad4b9503cb858ef134fd36215c6d19")]
 [assembly: System.Reflection.AssemblyProductAttribute("BasicSkeleton.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BasicSkeleton.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

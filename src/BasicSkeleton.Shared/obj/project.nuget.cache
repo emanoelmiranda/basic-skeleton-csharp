@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "B/RB36erOTA=",
+  "dgSpecHash": "jj8KduR10Tg=",
   "success": true,
   "projectFilePath": "/home/emanoel/RiderProjects/basic-skeleton-csharp/src/BasicSkeleton.Shared/BasicSkeleton.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/emanoel/.nuget/packages/serilog/4.2.0/serilog.4.2.0.nupkg.sha512"
+  ],
   "logs": []
 }

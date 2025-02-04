@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BasicSkeleton.Infrastructure.Messaging")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b0d235525cce72e8f8b87332a10373fef6b0aa8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+304c6bd4ada8a8dedf57621ee669954991ad5b32")]
 [assembly: System.Reflection.AssemblyProductAttribute("BasicSkeleton.Infrastructure.Messaging")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BasicSkeleton.Infrastructure.Messaging")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

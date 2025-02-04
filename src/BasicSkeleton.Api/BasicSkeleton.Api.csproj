@@ -12,4 +12,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BasicSkeleton.Application\BasicSkeleton.Application.csproj" />
+    <ProjectReference Include="..\BasicSkeleton.Shared\BasicSkeleton.Shared.csproj" />
+  </ItemGroup>
+
 </Project>

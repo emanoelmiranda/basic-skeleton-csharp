@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "GCsBofBMgLo=",
+  "dgSpecHash": "YEUiRARbOms=",
   "success": true,
   "projectFilePath": "/home/emanoel/RiderProjects/basic-skeleton-csharp/src/BasicSkeleton.Api/BasicSkeleton.Api.csproj",
   "expectedPackageFiles": [
     "/home/emanoel/.nuget/packages/microsoft.aspnetcore.openapi/8.0.12/microsoft.aspnetcore.openapi.8.0.12.nupkg.sha512",
     "/home/emanoel/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/home/emanoel/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/home/emanoel/.nuget/packages/serilog/4.2.0/serilog.4.2.0.nupkg.sha512",
     "/home/emanoel/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
     "/home/emanoel/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
     "/home/emanoel/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",

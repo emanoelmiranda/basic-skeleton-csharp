@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "K7LSwAA9He+8yunOcbLndgTZ/Cw5E1gpfZxNY9qwiXU=",
-  "Source": "BasicSkeletonApi",
-  "BasePath": "_content/BasicSkeletonApi",
+  "Hash": "GqKohm8U851eYpZfH5m4tChKzph2M97dRBEF3HgWMRI=",
+  "Source": "BasicSkeleton.Api",
+  "BasePath": "_content/BasicSkeleton.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
